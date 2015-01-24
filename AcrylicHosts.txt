@@ -66,7 +66,7 @@
 #GitHub END
 
 #Box.com START
-74.112.184.73	box.com
+74.112.184.90	box.com
 74.112.184.70	app.box.com
 #Box.com END
 
@@ -112,7 +112,7 @@
 69.171.230.5	*.facebook.com facebook.com vpn.tfbnw.net ldap.thefacebook.com
 69.171.235.9	s-static.facebook.com
 42.99.128.138	fbcdn-profile-a.akamaihd.net
-31.13.73.7 ent-?.xx.fbcdn.net ent-?.xy.fbcdn.net
+31.13.73.7 *.xx.fbcdn.net *.xy.fbcdn.net
 61.213.171.59	*.ak.facebook.com *.fbcdn.net
 61.213.171.59 a248.e.akamai.net
 23.32.241.64 fbcdn-sphotos-a.akamaihd.net
