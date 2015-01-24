@@ -28,10 +28,6 @@
 50.63.202.23	imouto.me
 #ccFox.info END
 
-#12306 START
-#61.157.124.251	dynamic.12306.cn
-#12306 END
-
 #ProjectH START
 106.186.31.197	projecth.us *.projecth.us
 #ProjectH END
@@ -228,7 +224,7 @@
 59.190.145.88	www.webmproject.org
 59.190.145.88	golang.org *.golang.org feeds.feedburner.com
 203.208.46.177 google.org www.google.org
-59.190.145.88 google.com *.google.com *.google.com.?? google.??
+59.190.145.88 google.com *.google.com *.google.com.?? google.?? google.com.?? google.co.?? *.google.co.??
 #Google other↑
 #Google Services END
 
@@ -285,7 +281,7 @@
 108.160.172.65	block.dropbox.com
 108.160.165.253	d.dropbox.com
 107.20.134.222	dl.dropbox.com
-54.204.8.18.	dl.dropboxusercontent.com
+54.204.8.18	dl.dropboxusercontent.com
 107.20.134.222	dl-web.dropbox.com
 23.21.206.219	forums.dropbox.com
 108.160.165.211	notify*.dropbox.com
