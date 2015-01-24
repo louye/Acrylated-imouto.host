@@ -1,13 +1,13 @@
 ﻿#+BEGIN
-#+UPDATE_TIME 2015-01-21 23:30
+#+UPDATE_TIME 2015-01-26 13:30
 #+MESSAGE
 #######################################################################
 #
 #  Acrylated imouto.host
-#  #Ver : 2.27.0535.5
-#  #Update Time : 2015-01-21 23:30
+#  #Ver : 2.27.0535.6
+#  #Update Time : 2015-01-26 13:30
 #  #Fix & Bug : 
-#  # 2.27.0535.5: Integrate Google Beijing IP
+#  # 2.27.0535.6: Dropbox(Partial) and others
 #
 #######################################################################
 #+MESSAGE_END
@@ -112,8 +112,7 @@
 69.171.230.5	*.facebook.com facebook.com vpn.tfbnw.net ldap.thefacebook.com
 69.171.235.9	s-static.facebook.com
 42.99.128.138	fbcdn-profile-a.akamaihd.net
-31.13.73.152 scontent-?.xx.fbcdn.net
-31.13.85.71 ent-?.xx.fbcdn.net ent-?.xy.fbcdn.net
+31.13.73.7 ent-?.xx.fbcdn.net ent-?.xy.fbcdn.net
 61.213.171.59	*.ak.facebook.com *.fbcdn.net
 61.213.171.59 a248.e.akamai.net
 23.32.241.64 fbcdn-sphotos-a.akamaihd.net
@@ -144,6 +143,7 @@
 
 #DuckDuckGo START
 46.51.216.186	duckduckgo.com *.duckduckgo.com
+54.251.178.52 icons.duckduckgo.com images.duckduckgo.com
 #DuckDuckGo END
 
 #Ixquick START
@@ -157,36 +157,30 @@
 
 #Google Services START
 
-#GMail
-203.208.46.177 gmail.com
-#203.208.46.177 mail.google.com #UNSTABLE
-#Google Play
-#203.208.46.177 play.google.com #UNSTABLE
-
 #Googleapis↓
 173.194.194.95	googleapis.com *.googleapis.com
 203.208.46.177 mt0.googleapis.com mt1.googleapis.com mt2.googleapis.com mt3.googleapis.com
-173.194.194.132 *storage.googleapis.com
+173.194.194.197 *storage.googleapis.com
 #Googleapis↑
 #Android↓
-173.194.194.194	*.googlehosted.com
+59.190.145.88	*.googlehosted.com
 173.194.193.188	mtalk.google.com
 173.194.194.193 m.google.com mobile.l.google.com
 173.194.194.125	talk.google.com talkx.l.google.com talk.l.google.com
 173.194.193.211	proxy.googlezip.net ext.google.com
 #Android↑
 #Youtube↓
-173.194.194.194	*.youtube.com youtube.com youtu.be *.youtube-nocookie.com *.ytimg.com manifest.googlevideo.com redirector.googlevideo.com redirector.c.youtube.com
+59.190.145.88	*.youtube.com youtube.com youtu.be *.youtube-nocookie.com *.ytimg.com manifest.googlevideo.com redirector.googlevideo.com redirector.c.youtube.com
 173.194.194.121 apiblog.youtube.com
 173.194.194.117 stage.data.youtube.com upload.video.google.com
 #104.245.8.250 *.c.youtube.com *.googlevideo.com
 #Youtube↑
 #Appspot↓
-173.194.194.141	appspot.com *.appspot.com *.withgoogle.com *.googlelabs.com *.google.org
+173.194.194.141	appspot.com *.appspot.com *.withgoogle.com *.googlelabs.com *.google.org www.thinkwithgoogle.com thinkwithgoogle.com
 #Appspot↑
 #Googleusercontent↓
 203.208.46.170 lh?.googleusercontent.com ci?.googleusercontent.com doc-??-??-docs.googleusercontent.com webcache.googleusercontent.com *.ggpht.com
-173.194.194.132	*.googleusercontent.com
+173.194.194.197	*.googleusercontent.com
 #Googleusercontent↑
 #Gstatic↓
 203.208.46.177	*.gstatic.com csi.l.google.com
@@ -210,31 +204,31 @@
 173.194.193.192	supl.google.com 
 173.194.194.121 ghs*.google.com
 173.194.68.127 stun.l.google.com *.stun.l.google.com
-173.194.194.194 www.gwtproject.org 
-173.194.194.194 googledrive.com *.googledrive.com googlegroups.com *.googlegroups.com
+59.190.145.88 www.gwtproject.org 
+59.190.145.88 googledrive.com *.googledrive.com googlegroups.com *.googlegroups.com googleplus.com
 173.194.194.191	*.blogger.com blogger.com 
-173.194.194.132 *.blogspot.com
-173.194.194.194	*.chromium.org chromium.org
+173.194.194.197 *.blogspot.com
+59.190.145.88	*.chromium.org chromium.org
 203.208.46.177 android.com www.android.com source.android.com market.android.com
-173.194.194.194	*.android.com www.androidify.com
-173.194.194.194	chrome.angrybirds.com
-173.194.194.194	developer.chrome.com
-173.194.194.194	domains.googlesyndication.com
+59.190.145.88	*.android.com www.androidify.com
+59.190.145.88	chrome.angrybirds.com
+59.190.145.88	developer.chrome.com
+59.190.145.88	domains.googlesyndication.com
 203.208.46.177 g.co goo.gl plus.url.google.com
-173.194.194.194	gmail.com *.gmail.com m.googlemail.com
+59.190.145.88	gmail.com *.gmail.com m.googlemail.com
 203.208.46.190	*.google-analytics.com
-173.194.194.194	*.googleadservices.com
+59.190.145.88	*.googleadservices.com
 203.208.46.177 accounts.google.com accounts.l.google.com
 203.208.46.177 code.google.com code.l.google.com googlecode.com *.googlecode.com googlesource.com *.googlesource.com
 203.208.46.177 scholar.google.com scholar.l.google.com scholar.google.com.??
 203.208.46.177 ditu.google.com
 203.208.46.177 translate.google.com
 203.208.46.177 mt?.google.com lh?.google.com dl.google.com
-173.194.194.194	panoramio.com *.panoramio.com
-173.194.194.194	www.webmproject.org
-173.194.194.194	golang.org *.golang.org feeds.feedburner.com
+59.190.145.88	panoramio.com *.panoramio.com
+59.190.145.88	www.webmproject.org
+59.190.145.88	golang.org *.golang.org feeds.feedburner.com
 203.208.46.177 google.org www.google.org
-173.194.194.194 google.com *.google.com *.google.com.?? google.??
+59.190.145.88 google.com *.google.com *.google.com.?? google.??
 #Google other↑
 #Google Services END
 
@@ -281,17 +275,17 @@
 #Wikipedia END
 
 #Dropbox START
-108.160.165.147	dropbox.com
-108.160.165.147	www.dropbox.com
-108.160.166.144	api.dropbox.com
-108.160.166.126	api-notify.dropbox.com
+108.160.165.142	dropbox.com
+108.160.165.142	www.dropbox.com
+108.160.165.142	api.dropbox.com
+108.160.165.142	api-notify.dropbox.com
 54.243.226.170	api-content.dropbox.com
 108.160.166.61	api-d.dropbox.com
 108.160.166.140	client-lb.dropbox.com
 108.160.172.65	block.dropbox.com
 108.160.165.253	d.dropbox.com
 107.20.134.222	dl.dropbox.com
-54.235.132.16	dl.dropboxusercontent.com
+54.204.8.18.	dl.dropboxusercontent.com
 107.20.134.222	dl-web.dropbox.com
 23.21.206.219	forums.dropbox.com
 108.160.165.211	notify*.dropbox.com
