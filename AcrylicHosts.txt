@@ -175,8 +175,8 @@
 173.194.194.141	appspot.com *.appspot.com *.withgoogle.com *.googlelabs.com *.google.org www.thinkwithgoogle.com thinkwithgoogle.com
 #Appspot↑
 #Googleusercontent↓
+173.194.194.197	*.googleusercontent.com yt?.ggpht.com
 203.208.46.170 lh?.googleusercontent.com ci?.googleusercontent.com doc-??-??-docs.googleusercontent.com webcache.googleusercontent.com *.ggpht.com
-173.194.194.197	*.googleusercontent.com
 #Googleusercontent↑
 #Gstatic↓
 203.208.46.177	*.gstatic.com csi.l.google.com
@@ -219,7 +219,7 @@
 203.208.46.177 scholar.google.com scholar.l.google.com scholar.google.com.??
 203.208.46.177 ditu.google.com
 203.208.46.177 translate.google.com
-203.208.46.177 mt?.google.com lh?.google.com dl.google.com
+203.208.46.177 mt?.google.com dl.google.com
 59.190.145.88	panoramio.com *.panoramio.com
 59.190.145.88	www.webmproject.org
 59.190.145.88	golang.org *.golang.org feeds.feedburner.com
