@@ -275,10 +275,10 @@
 #Wikipedia END
 
 #Dropbox START
-108.160.165.142	dropbox.com
-108.160.165.142	www.dropbox.com
-108.160.165.142	api.dropbox.com
-108.160.165.142	api-notify.dropbox.com
+108.160.165.48	dropbox.com
+108.160.165.163	www.dropbox.com
+108.160.161.147	api.dropbox.com
+108.160.161.147	api-notify.dropbox.com
 54.243.226.170	api-content.dropbox.com
 108.160.166.61	api-d.dropbox.com
 108.160.166.140	client-lb.dropbox.com
