@@ -116,12 +116,8 @@
 23.77.15.139 connect.facebook.net
 23.200.85.72	fbcdn-profile-a.akamaihd.net
 31.13.73.7 *.xx.fbcdn.net *.xy.fbcdn.net
-23.200.85.71	*.ak.facebook.com *.fbcdn.net #*-a.akamaihd.net
+23.200.85.71	*.ak.facebook.com *.fbcdn.net *-a.akamaihd.net
 23.200.85.71 a248.e.akamai.net
-23.75.23.59 fbcdn-sphotos-a.akamaihd.net
-23.75.23.73 fbcdn-sphotos-?-a.akamaihd.net
-#23.76.204.208	fbcdn-photos-a.akamaihd.net
-#23.77.202.32	fbstatic-a.akamaihd.net
 #Facebook END
 
 #Flickr START
