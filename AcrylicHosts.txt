@@ -229,6 +229,7 @@
 203.208.46.177 google.org www.google.org
 59.190.145.88 google.com *.google.com *.google.com.?? google.?? google.com.?? google.co.?? *.google.co.??
 #Google other↑
+173.194.72.95 googleapis.l.google.com
 #Google Services END
 
 #Wikipedia START
