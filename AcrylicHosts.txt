@@ -201,7 +201,7 @@
 #Googleapis↑
 #Android↓
 59.190.145.88	*.googlehosted.com
-173.194.193.188	mtalk.google.com
+173.194.193.188	mtalk.google.com mobile-gtalk.l.google.com
 173.194.194.193 m.google.com mobile.l.google.com
 173.194.194.125	talk.google.com talkx.l.google.com talk.l.google.com
 173.194.193.211	proxy.googlezip.net ext.google.com
@@ -210,10 +210,10 @@
 59.190.145.88	*.youtube.com youtube.com youtu.be *.youtube-nocookie.com *.ytimg.com manifest.googlevideo.com redirector.googlevideo.com redirector.c.youtube.com
 173.194.194.121 apiblog.youtube.com
 173.194.194.117 stage.data.youtube.com upload.video.google.com
-#104.245.8.250 *.c.youtube.com *.googlevideo.com
+210.61.148.34 *.c.youtube.com *.googlevideo.com
 #Youtube↑
 #Appspot↓
-173.194.194.141	appspot.com *.appspot.com *.withgoogle.com *.googlelabs.com *.google.org www.thinkwithgoogle.com thinkwithgoogle.com
+173.194.194.141	appspot.com *.appspot.com *.withgoogle.com withgoogle.com *.googlelabs.com *.google.org www.thinkwithgoogle.com thinkwithgoogle.com
 #Appspot↑
 #Googleusercontent↓
 173.194.194.197	*.googleusercontent.com yt?.ggpht.com
@@ -239,7 +239,7 @@
 74.125.69.16    googlemail-imap.l.google.com
 74.125.193.108    pop.gmail.com﻿
 173.194.193.192	supl.google.com 
-173.194.194.121 ghs*.google.com
+173.194.194.121 ghs.google.com ghs.l.google.com ghs46.google.com ghs46.l.google.com
 173.194.68.127 stun.l.google.com *.stun.l.google.com
 59.190.145.88 www.gwtproject.org 
 59.190.145.88 googledrive.com *.googledrive.com googlegroups.com *.googlegroups.com googleplus.com
