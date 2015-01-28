@@ -1,13 +1,13 @@
 ﻿#+BEGIN
-#+UPDATE_TIME 2015-01-28 13:30
+#+UPDATE_TIME 2015-01-28 20:00
 #+MESSAGE
 #######################################################################
 #
 #  Acrylated imouto.host
 #  #Ver : 2.27.0535.7
-#  #Update Time : 2015-01-26 13:30
+#  #Update Time : 2015-01-26 20:00
 #  #Fix & Bug : 
-#  # 2.27.0535.7: 
+#  # 2.27.0535.7: *
 #
 #######################################################################
 #+MESSAGE_END
@@ -105,7 +105,7 @@
 #XDA END
 
 #Gravatar START
-72.21.91.121 www.gravatar.com ?.gravatar.vom
+72.21.91.121 www.gravatar.com ?.gravatar.com
 #Gravatar END
 
 #Amazon S3 START
@@ -156,9 +156,6 @@
 #Twitter END
 
 #Facebook START
-127.0.0.1	 ads.ak.facebook.com
-127.0.0.1	 creative.ak.facebook.com
-127.0.0.1	 creative.ak.fbcdn.net
 31.13.87.4	*.facebook.com facebook.com vpn.tfbnw.net ldap.thefacebook.com
 23.77.2.110 s-static.ak.facebook.com
 23.77.15.139 connect.facebook.net
