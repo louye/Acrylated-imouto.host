@@ -89,7 +89,7 @@
 66.6.42.22	status.soundcloud.com
 66.6.43.22	status.soundcloud.com
 68.232.44.127	eventlogger.soundcloud.com
-68.232.44.127 m.soundcloud.com
+68.232.44.127 m.soundcloud.com *.soundcloud.com
 #SoundCloud END
 
 #DeviantART START
@@ -99,10 +99,19 @@
 68.232.44.148 *.deviantart.net
 #DeviantART END
 
+#XDA START
+68.232.35.229 cdn.www.xda-developers.com
+68.232.35.96 cdn?.xda-developers.com clickcdn.xda-developers.com
+#XDA END
+
+#Gravatar START
+72.21.91.121 www.gravatar.com ?.gravatar.vom
+#Gravatar END
+
 #Amazon S3 START
 54.231.65.24 s3.amazonaws.com
 54.231.232.217 s3-us-west-1.amazonaws.com
-54.231.161.208 s3-us-west-2.amazonaws.com
+54.231.164.72 s3-us-west-2.amazonaws.com
 54.231.225.9 s3-ap-northeast-1.amazonaws.com
 54.231.243.121 s3-ap-southeast-1.amazonaws.com
 54.231.252.28 s3-ap-southeast-2.amazonaws.com
@@ -137,8 +146,6 @@
 199.16.158.50 image-proxy-origin.twimg.com
 199.16.158.51 urls-real.api.twitter.com
 199.16.158.52 upload.twitter.com
-#199.16.156.122 ton.twitter.com
-#199.59.148.136 stream.twitter.com
 199.59.149.221 first-tweets.com
 199.59.149.246 twtr.jp
 199.96.57.6 platform.twitter.com cdn.api.twitter.com
