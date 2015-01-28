@@ -110,10 +110,10 @@
 127.0.0.1	 ads.ak.facebook.com
 127.0.0.1	 creative.ak.facebook.com
 127.0.0.1	 creative.ak.fbcdn.net
-69.171.230.5	*.facebook.com facebook.com vpn.tfbnw.net ldap.thefacebook.com
+31.13.87.4	*.facebook.com facebook.com vpn.tfbnw.net ldap.thefacebook.com
 23.77.2.110 s-static.ak.facebook.com
 23.77.15.139 connect.facebook.net
-31.13.73.7 *.xx.fbcdn.net *.xy.fbcdn.net fbcdn.net
+31.13.87.5 *.xx.fbcdn.net *.xy.fbcdn.net fbcdn.net
 23.200.85.71	*.ak.facebook.com *.fbcdn.net fb*-a.akamaihd.net
 23.200.85.71 a248.e.akamai.net
 #Facebook END
