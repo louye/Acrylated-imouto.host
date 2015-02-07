@@ -191,13 +191,10 @@
 #Startpage END
 
 #Google Services START
-#Google Wildcards↓
-59.190.145.88 google.com *.google.com google.com.?? *.google.com.?? google.?? *.google.?? google.co.?? *.google.co.??
-#Google Wildcards↑
 #Googleapis↓
+173.194.194.197 *storage.googleapis.com
 173.194.194.95	googleapis.com *.googleapis.com
 203.208.46.177 mt0.googleapis.com mt1.googleapis.com mt2.googleapis.com mt3.googleapis.com fonts.googleapis.com ajax.googleapis.com
-173.194.194.197 *storage.googleapis.com
 #Googleapis↑
 #Android↓
 173.194.194.197 googlehosted.com googlehosted.l.google.com
@@ -217,11 +214,11 @@
 173.194.194.141	appspot.com *.appspot.com *.withgoogle.com withgoogle.com *.googlelabs.com *.google.org www.thinkwithgoogle.com thinkwithgoogle.com
 #Appspot↑
 #Googleusercontent↓
-173.194.194.197	*.googleusercontent.com yt?.ggpht.com
 203.208.46.170 lh?.googleusercontent.com ci?.googleusercontent.com doc-??-??-docs.googleusercontent.com googlecode.l.googleusercontent.com webcache.googleusercontent.com *.ggpht.com
+173.194.194.197	*.googleusercontent.com yt3.ggpht.com yt4.ggpht.com
 #Googleusercontent↑
 #Gstatic↓
-203.208.46.177	*.gstatic.com csi.l.google.com
+203.208.46.177	gstatic.com *.gstatic.com csi.l.google.com
 #Gstatic↑
 #Gmail↓
 59.190.145.88	gmail.com *.gmail.com *.googlemail.com
@@ -267,7 +264,9 @@
 59.190.145.88	www.webmproject.org
 59.190.145.88	golang.org *.golang.org feeds.feedburner.com
 #Google other↑
-173.194.72.95 googleapis.l.google.com
+#Google Wildcards↓
+59.190.145.88 google.com *.google.com google.com.?? *.google.com.?? google.?? *.google.?? google.co.?? *.google.co.??
+#Google Wildcards↑
 #Google Services END
 
 #Wikipedia START
