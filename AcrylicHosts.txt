@@ -191,16 +191,19 @@
 #Startpage END
 
 #Google Services START
-
+#Google Wildcards↓
+59.190.145.88 google.com *.google.com google.com.?? *.google.com.?? google.?? *.google.?? google.co.?? *.google.co.??
+#Google Wildcards↑
 #Googleapis↓
 173.194.194.95	googleapis.com *.googleapis.com
-203.208.46.177 mt0.googleapis.com mt1.googleapis.com mt2.googleapis.com mt3.googleapis.com
+203.208.46.177 mt0.googleapis.com mt1.googleapis.com mt2.googleapis.com mt3.googleapis.com fonts.googleapis.com ajax.googleapis.com
 173.194.194.197 *storage.googleapis.com
 #Googleapis↑
 #Android↓
+173.194.194.197 googlehosted.com googlehosted.l.google.com
 59.190.145.88	*.googlehosted.com
 173.194.193.188	mtalk.google.com mobile-gtalk.l.google.com
-173.194.194.193 m.google.com mobile.l.google.com
+173.194.194.193 m.google.com mobile.google.com mobile.l.google.com
 173.194.194.125	talk.google.com talkx.l.google.com talk.l.google.com
 173.194.193.211	proxy.googlezip.net ext.google.com
 #Android↑
@@ -258,15 +261,12 @@
 203.208.46.177 ditu.google.com
 203.208.46.177 translate.google.com
 203.208.46.177 mt?.google.com dl.google.com
+203.208.46.177 google.org www.google.org
 59.190.145.88	panoramio.com 
 173.194.194.141 *.panoramio.com
 59.190.145.88	www.webmproject.org
 59.190.145.88	golang.org *.golang.org feeds.feedburner.com
-203.208.46.177 google.org www.google.org
 #Google other↑
-#Google Wildcards↓
-59.190.145.88 google.com *.google.com google.com.?? *.google.com.?? google.?? *.google.?? google.co.?? *.google.co.??
-#Google Wildcards↑
 173.194.72.95 googleapis.l.google.com
 #Google Services END
 
