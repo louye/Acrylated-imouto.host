@@ -57,6 +57,7 @@
 #GitHub END
 
 #Box.com START
+74.112.184.85 www.box.com
 74.112.184.90	box.com
 74.112.184.88 app.box.com
 74.112.184.87 *.app.box.com
@@ -133,9 +134,9 @@
 199.16.158.41 api.twitter.com
 199.16.158.42 *.twitter.com
 199.16.158.43 *.tweetdeck.com tweetdeck.com td.twitter.com tdweb.twitter.com tweetdeck.twitter.com
-199.16.158.44 t.co
+185.45.5.36 t.co
 199.16.158.45 mobile.twitter.com
-199.16.158.46 support.twitter.com
+199.16.158.110 support.twitter.com
 199.16.158.47 r.twimg.com
 199.16.158.48 syndication.twimg.com
 199.16.158.49 syndication.twitter.com syndication-o.twimg.com cdn.syndication.twimg.com
