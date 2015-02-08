@@ -148,10 +148,10 @@
 #Twitter END
 
 #Facebook START
-31.13.87.4	*.facebook.com facebook.com vpn.tfbnw.net ldap.thefacebook.com
+31.13.87.4	*.facebook.com facebook.com vpn.tfbnw.net fbcdn.net #ldap.thefacebook.com 
 23.77.2.110 s-static.ak.facebook.com
 23.77.15.139 connect.facebook.net
-31.13.87.5 *.xx.fbcdn.net *.xy.fbcdn.net fbcdn.net
+31.13.87.5 *.xx.fbcdn.net *.xy.fbcdn.net
 203.80.97.18	*.ak.facebook.com *.fbcdn.net fb*-a.akamaihd.net
 203.80.97.18 a248.e.akamai.net
 #Facebook END
@@ -313,18 +313,16 @@
 
 #Dropbox START
 108.160.165.48	dropbox.com
-108.160.165.163	www.dropbox.com
+108.160.165.163	www.dropbox.com www.v.dropbox.com
 108.160.161.147	api.dropbox.com
 108.160.161.147	api-notify.dropbox.com
-54.243.226.170	api-content.dropbox.com
-108.160.166.61	api-d.dropbox.com
+107.20.133.28	api-content.dropbox.com
+108.160.166.61	d.dropbox.com api-d.dropbox.com d.v.dropbox.com
 108.160.166.140	client-lb.dropbox.com
 108.160.172.65	block.dropbox.com
-108.160.165.253	d.dropbox.com
-107.20.134.222	dl.dropbox.com
-54.204.8.18	dl.dropboxusercontent.com
-107.20.134.222	dl-web.dropbox.com
-23.21.206.219	forums.dropbox.com
+107.20.134.222	dl.dropbox.com dl-web.dropbox.com dl-balancer.x.dropbox.com
+54.204.8.181	dl.dropboxusercontent.com
+54.230.203.134	forums.dropbox.com
 108.160.165.211	notify*.dropbox.com
 108.160.165.211	client*.dropbox.com
 204.236.220.7 dl-client*.dropbox.com
