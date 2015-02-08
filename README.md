@@ -1,3 +1,3 @@
 Acrylated-imouto.host
 =====================
-Adapted imouto.host file for Acrylic DNS Proxy
+Adapted imouto.host for Acrylic DNS Proxy
