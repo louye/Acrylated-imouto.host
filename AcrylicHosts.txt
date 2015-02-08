@@ -58,6 +58,8 @@
 
 #Box.com START
 74.112.184.90	box.com
+74.112.184.88 app.box.com
+74.112.184.87 *.app.box.com
 74.112.184.70	*.box.com
 #Box.com END
 
@@ -118,9 +120,9 @@
 #feedly END
 
 #FlipBoard START
-23.23.72.70	fbprod.flipboard.com
-54.230.150.180	cdn.flipboard.com
-54.225.133.17	beacon.flipboard.com
+184.72.217.61	fbprod.flipboard.com
+54.192.74.103	cdn.flipboard.com
+54.225.107.20	beacon.flipboard.com
 #FlipBoard END
 
 #Twitter START
@@ -148,7 +150,7 @@
 #Twitter END
 
 #Facebook START
-31.13.87.4	*.facebook.com facebook.com vpn.tfbnw.net fbcdn.net #ldap.thefacebook.com 
+31.13.87.4	*.facebook.com facebook.com vpn.tfbnw.net fbcdn.net
 23.77.2.110 s-static.ak.facebook.com
 23.77.15.139 connect.facebook.net
 31.13.87.5 *.xx.fbcdn.net *.xy.fbcdn.net
